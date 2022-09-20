@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandOuts</string>
+    <string name="hello_world">hello world</string>
+    <string name="next">Next</string>
+</resources>
